@@ -1,3 +1,6 @@
+/**
+ * Describe A class
+ */
 public class A {
 
   /**

@@ -4,6 +4,6 @@ public class A {
    * returns 5
    */
   public void a() {
-    return 5
+    return 5;
   }
 } 

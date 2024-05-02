@@ -10,3 +10,13 @@ public class A {
     return 5;
   }
 } 
+
+class B {
+  /**
+   * @params none
+   * returns 3
+   */
+  public void b() {
+    return 3;
+  }
+}

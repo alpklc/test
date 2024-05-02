@@ -9,6 +9,10 @@ public class A {
   public void a() {
     return 5;
   }
+
+  class C {
+    public void c() {}
+  }
 } 
 
 class B {
